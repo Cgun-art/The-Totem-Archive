@@ -1,0 +1,3 @@
+if this.totem = true =}
+
+this.totem = this.add(file.added(1))
